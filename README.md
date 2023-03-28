@@ -9,11 +9,10 @@ A simple snake game built in python.
 
 ## ⚙️ Languages or Frameworks Used
 
-```
-+ pip install turtle
-+ import random
-+ import time
-```
++ `pip install turtle`
++ `import random`
++ `import time`
+
 
 ## 🌟 How to run
 
