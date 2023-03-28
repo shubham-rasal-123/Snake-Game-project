@@ -5,7 +5,7 @@
 
 ## 🛠 Description
 
-A simple snake game built in python.
+A simple snake game built in [python](https://www.python.org/downloads).
 
 ## ⚙️ Languages or Frameworks Used
 
